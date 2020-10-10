@@ -1,7 +1,7 @@
 # Dog Search
 
 ## Heroku
-https://dogsearch.herokuapp.com/about
+https://dogsearch.herokuapp.com/
 
 ## About DogSearch
 Note! DogSearch is not a real company and the dogs you see on the website is not up for adoption. DogSearch is merly a community concept developed for people that are looking to adopt a dog or have adopted a dog and wish to stay in touch with likeminded people. 
